@@ -1,10 +1,10 @@
 # Site settings
-title:       Thành Công's Blog
-email:       thanhcong.mssl@gmail.com
-author:      Thành Công
+title:       David Hazeland's Blog
+email:       davidhazeland@gmail.com
+author:      David Hazeland
 description: "A blog to share the feeling in my life."
 baseurl:     ""
-url:         "http://thanhcongmssl.com"
+url:         "http://davidhazeland.com"
 
 # Google analytics
 google_analytics: false
