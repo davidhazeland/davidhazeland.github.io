@@ -4,7 +4,8 @@ email:       davidhazeland@gmail.com
 author:      David Hazeland
 description: "A blog to share the feeling in my life."
 baseurl:     ""
-url:         "http://davidhazeland.com"
+url:         "http://blog.davidhazeland.com"
+rootUrl: 	 "http://davidhazeland.com"
 
 # Google analytics
 google_analytics: false
