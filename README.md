@@ -1,2 +1,2 @@
-davidhazeland.com
+blog.davidhazeland.com
 =======================
